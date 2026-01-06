@@ -40,5 +40,7 @@
 	<classpathentry kind="lib" path="C:/SeleniumCompletePrograms/SeleniumJavaJars/selenium-java-4.39.0/selenium-api-4.39.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
 	<classpathentry kind="lib" path="C:/SeleniumCompletePrograms/SeleniumJavaJars/selenium-java-4.39.0/selenium-chrome-driver-4.39.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumCompletePrograms/SeleniumJavaJars/selenium-java-4.39.0/selenium-firefox-driver-4.39.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumCompletePrograms/SeleniumJavaJars/selenium-java-4.39.0/selenium-edge-driver-4.39.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
